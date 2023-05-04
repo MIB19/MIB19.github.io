@@ -1,1 +1,0 @@
-import{f as t,a as o,m as n,o as s}from"./entry.79fc2a51.js";const a={},c={class:"w-full min-h-screen flex flex-col items-center app bg-gray-700"};function l(e,r){return s(),o("div",c,[n(e.$slots,"default")])}const f=t(a,[["render",l]]);export{f as default};
